@@ -1,0 +1,49 @@
+2016-06-30 21:26:41 [::1][1][-][warning][yii\validators\FileValidator::getSizeLimit] PHP.ini's 'post_max_size' is less than 'upload_max_filesize'.
+    in C:\wamp\www\Intranet\humhub\protected\humhub\modules\admin\views\setting\design.php:33
+    in C:\wamp\www\Intranet\humhub\protected\humhub\modules\admin\controllers\SettingController.php:379
+2016-06-30 21:26:41 [::1][1][-][warning][yii\validators\FileValidator::getSizeLimit] PHP.ini's 'post_max_size' is less than 'upload_max_filesize'.
+    in C:\wamp\www\Intranet\humhub\protected\humhub\modules\admin\views\setting\design.php:33
+    in C:\wamp\www\Intranet\humhub\protected\humhub\modules\admin\controllers\SettingController.php:379
+2016-06-30 21:26:41 [::1][1][-][info][application] $_GET = [
+    'r' => 'admin/setting/design'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/Intranet/humhub/index.php?r=admin%2Fsetting%2Fbasic'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'pt-BR,pt;q=0.8,en-US;q=0.6,en;q=0.4,es;q=0.2,gl;q=0.2'
+    'HTTP_COOKIE' => 'pm_share-panel=expanded; pm_new-people-panel=expanded; pm_new-spaces-panel=expanded; pm_getting-started-panel=expanded; language=bb6fe2b51b4703bab1e2b66084183764cd5d627a09c898ed4e59ae4de9fb924ba%3A2%3A%7Bi%3A0%3Bs%3A8%3A%22language%22%3Bi%3A1%3Bs%3A5%3A%22pt_br%22%3B%7D; _csrf=32a1d99e85fb31c3e7588060e9b9c6622ed9b2e63140d3abed0c7d710af7fda3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22D0iVJzwFlyyBNan5lATen9yozpLhuLgx%22%3B%7D; PHPSESSID=h25vh32au5qpfdj7neho3aiv71'
+    'PATH' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Program Files\\nodejs\\;C:\\Users\\Dell\\Documents\\Projetos\\apache-ant-1.9.6\\bin;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/Intranet/humhub/index.php'
+    'REMOTE_PORT' => '52989'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=admin%2Fsetting%2Fdesign'
+    'REQUEST_URI' => '/Intranet/humhub/index.php?r=admin%2Fsetting%2Fdesign'
+    'SCRIPT_NAME' => '/Intranet/humhub/index.php'
+    'PHP_SELF' => '/Intranet/humhub/index.php'
+    'REQUEST_TIME_FLOAT' => 1467332801.394
+    'REQUEST_TIME' => 1467332801
+]
